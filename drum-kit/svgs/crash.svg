@@ -1,0 +1,77 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 790"
+					preserveAspectRatio="xMidYMid meet">
+                    <g id="Crash">
+							<g id="Crash-Stand-Top">
+								<path d="M173.78,121.64l17.15-47.15a4.64,4.64,0,1,0-8.7-3.21l-17.15,47.15Z"
+									transform="translate(-0.23)" fill="#eefaf9" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<path
+									d="M188.48,88.61a7,7,0,0,0-4.14-9l-0.42-.17a7,7,0,0,0-9,4.14L119.87,235.11l13.52,4.9Z"
+									transform="translate(-0.23)" fill="#eefaf9" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<path
+									d="M157.81,118.6a0.3,0.3,0,0,1-.08.17l-0.17.42a7,7,0,0,0,4.14,9l8.36,3a7,7,0,0,0,9-4.14l0.17-.42c0-.08,0-0.17.08-0.17l-21.46-7.86h0Zm30.92-18.42a0.3,0.3,0,0,1,.08-0.17l0.17-.42a7,7,0,0,0-4.14-9l-8.36-3a7,7,0,0,0-9,4.14l-0.17.42c0,0.08,0,.17-0.08.17l21.46,7.86h0Z"
+									transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<g id="Crash-Cymbol" data-svg-origin="170.2685432434082 116.16499710083008"
+									style="transform: matrix(1, 0, 0, 1, 0, 0); transform-origin: 0px 0px 0px;">
+									<path
+										d="M286.91,151.47l-41.15-15.8c-28.64-11-39.63-19.26-46.3-26.61-2.79-2.87-8.28-8-14.28-10.22l-7.35-2.7h-0.17s-5.58-2-7.35-2.7c-6-2.2-13.6-1.77-17.49-1.35-9.89,1.27-23.66.59-52.64-9.38L58.53,68.33c-4.56-1.69-9-.25-10.22,3.3l-0.08.08c-1.27,3.55.93,7.27,5.58,9l114.4,41.65h0.17L282.77,164c4.56,1.69,8.7.25,10.05-3.3l0.08-.08c1-3.55-1.44-7.44-6-9.13h0Z"
+										transform="translate(-0.23)" fill="#fde74c" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M185.86,105.42l-21.71-7.86" transform="translate(-0.23)" fill="none"
+										stroke="#fef5b7" stroke-linecap="round" stroke-linejoin="round"
+										stroke-width="4"></path>
+								</g>
+							</g>
+							<g id="Crash-Stand">
+								<path d="M118.94,238H133.3V583.56H118.94V238Z" transform="translate(-0.23)"
+									fill="#eefaf9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"
+									stroke-width="6"></path>
+								<g>
+									<path
+										d="M188,645.24a7.14,7.14,0,0,1-10.22-.08L121.39,588.8a7.17,7.17,0,1,1,10.14-10.14L187.89,635A7.14,7.14,0,0,1,188,645.24Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M181.3,642.53l-56.78-56.78" transform="translate(-0.23)" fill="none"
+										stroke="#bcece8" stroke-miterlimit="10" stroke-width="4"></path>
+									<path
+										d="M188.31,635.44l-10.14,10.14s5.41,9.13,6.76,10.48c4,4,10.05,3.63,14-.34s4.31-10.05.42-14C198.11,640.51,188.31,635.44,188.31,635.44Z"
+										transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+								</g>
+								<g>
+									<path
+										d="M64.78,645a7.14,7.14,0,0,1,.08-10.22l56.36-56.36a7.17,7.17,0,1,1,10.14,10.14L75,644.9A7.14,7.14,0,0,1,64.78,645Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M71.71,642.53l54.75-54.84" transform="translate(-0.23)" fill="none"
+										stroke="#bcece8" stroke-miterlimit="10" stroke-width="4"></path>
+									<path
+										d="M74.5,645.32L64.36,635.18s-9.13,5.41-10.48,6.76c-4,4-3.63,10.05.34,14s10.05,4.31,14,.42C69.43,655.12,74.5,645.32,74.5,645.32Z"
+										transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+								</g>
+								<path d="M115.14,583.39a11.41,11.41,0,1,1,11.41,11.41A11.36,11.36,0,0,1,115.14,583.39Z"
+									transform="translate(-0.23)" fill="#eefaf9" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<path d="M128.57,580.6a3.39,3.39,0,1,0,.76,4.73A3.38,3.38,0,0,0,128.57,580.6Z"
+									transform="translate(-0.23)" fill="#000000"></path>
+								<g>
+									<circle cx="139.5" cy="413.31" r="8.45" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></circle>
+									<path
+										d="M137.53,423.11a9.23,9.23,0,0,1-9.21,9.21H124a9.23,9.23,0,0,1-9.21-9.21V404.44a9.23,9.23,0,0,1,9.21-9.21h4.31a9.23,9.23,0,0,1,9.21,9.21v18.67Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+								</g>
+								<g>
+									<path d="M115,237.82a11.41,11.41,0,1,1,11.41,11.41A11.36,11.36,0,0,1,115,237.82Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M128.4,235a3.39,3.39,0,1,0,.76,4.73A3.38,3.38,0,0,0,128.4,235Z"
+										transform="translate(-0.23)" fill="#000000"></path>
+								</g>
+							</g>
+						</g>
+</svg>

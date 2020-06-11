@@ -1,0 +1,138 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 790"
+					preserveAspectRatio="xMidYMid meet">
+					<g id="Snare">
+							<g id="Snare-Drum" data-svg-origin="748.5900268554688 413.7300109863281"
+								style="transform-origin: 0px 0px 0px; transform: matrix3d(1.00003, 0, 0, 0, 0, 0.999923, 0, 0, 0, 0, 1, 0, -0.0229168, 0.0316641, 0, 1);">
+								<path d="M655.47,320.79H843.88v92.94H655.47V320.79Z" transform="translate(-0.23)"
+									fill="#303030" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"
+									stroke-width="8"></path>
+								<path d="M840.5,345.29H658.84" transform="translate(-0.23)" fill="none" stroke="#202020"
+									stroke-miterlimit="10" stroke-width="8"></path>
+								<g>
+									<path
+										d="M662.22,375.71a6.76,6.76,0,1,1-13.52,0v-16.9a6.76,6.76,0,1,1,13.52,0v16.9Zm188.42,0a6.76,6.76,0,1,1-13.52,0v-16.9a6.76,6.76,0,1,1,13.52,0v16.9Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M718,393.45v-11m0-30.42v-11" transform="translate(-0.23)" fill="none"
+										stroke="#000000" stroke-linecap="round" stroke-linejoin="round"
+										stroke-width="8">
+									</path>
+									<path d="M724.75,375.71a6.76,6.76,0,0,1-13.52,0v-16.9a6.76,6.76,0,0,1,13.52,0v16.9Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<g>
+										<path d="M781.36,393.45v-11m0-30.42v-11" transform="translate(-0.23)"
+											fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"
+											stroke-width="8"></path>
+										<path
+											d="M788.12,375.71a6.76,6.76,0,0,1-13.52,0v-16.9a6.76,6.76,0,0,1,13.52,0v16.9Z"
+											transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+											stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									</g>
+								</g>
+								<path d="M647,320.79H850.64v17.74H647V320.79Zm0,75.2H850.64v17.74H647V396Z"
+									transform="translate(-0.23)" fill="#eefaf9" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="8"></path>
+								<path d="M650.4,333.46H847.26M650.4,408.66H847.26" transform="translate(-0.23)"
+									fill="none" stroke="#bcece8" stroke-miterlimit="10" stroke-width="4"></path>
+							</g>
+							<g id="Snare-Stand">
+								<path d="M741.65,491.46H756v80.27H741.65V491.46Z" transform="translate(-0.23)"
+									fill="#eefaf9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"
+									stroke-width="6"></path>
+								<g>
+									<path
+										d="M811.18,634.25a7.14,7.14,0,0,1-10.22-.08L744.6,577.81a7.17,7.17,0,1,1,10.14-10.14L811.1,624A7.29,7.29,0,0,1,811.18,634.25Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M804.42,631.55l-56.78-56.78" transform="translate(-0.23)" fill="none"
+										stroke="#bcece8" stroke-miterlimit="10" stroke-width="4"></path>
+									<path
+										d="M811.52,624.45l-10.14,10.14s5.41,9.13,6.76,10.48c4,4,10.05,3.63,14-.34s4.31-10.05.42-14C821.24,629.52,811.52,624.45,811.52,624.45Z"
+										transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+								</g>
+								<g>
+									<path
+										d="M687.91,634a7.14,7.14,0,0,1,.08-10.22l56.36-56.36a7.17,7.17,0,1,1,10.14,10.14l-56.36,56.36A7.14,7.14,0,0,1,687.91,634Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M694.84,631.55l54.75-54.84" transform="translate(-0.23)" fill="none"
+										stroke="#bcece8" stroke-miterlimit="10" stroke-width="4"></path>
+									<path
+										d="M697.63,634.34L687.49,624.2S678.36,629.61,677,631c-4,4-3.63,10.05.34,14s10.05,4.31,14,.42C692.56,644.14,697.63,634.34,697.63,634.34Z"
+										transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+								</g>
+								<path d="M738.27,572.41a11.41,11.41,0,1,1,11.41,11.41A11.36,11.36,0,0,1,738.27,572.41Z"
+									transform="translate(-0.23)" fill="#eefaf9" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<path d="M751.7,569.62a3.39,3.39,0,1,0,.76,4.73A3.38,3.38,0,0,0,751.7,569.62Z"
+									transform="translate(-0.23)" fill="#000000"></path>
+								<g>
+									<path d="M647.86,400.72a5.49,5.49,0,1,0-11,0V411.2h11V400.72Z"
+										transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path
+										d="M647.86,415.67V411.2h-11v8.45c0,3,2.11,6,5.15,6.34l103.33,11.49,1-10.9-98.52-10.9h0Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path
+										d="M642.54,423.53l100.38,11.24,0.17-1.69L640.34,421.59a2.86,2.86,0,0,0,2.2,1.94h0Z"
+										transform="translate(-0.23)" fill="#bcece8"></path>
+									<g>
+										<path
+											d="M860.78,411.2h-11v4.48l-96.91,10.81,1.35,10.9L856.13,426c3-.34,4.73-3.38,4.73-6.34V411.2h-0.08Z"
+											transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+											stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+										<path d="M756.35,432.91l0.17,1.69L856,423.53a2.88,2.88,0,0,0,2.11-1.61Z"
+											transform="translate(-0.23)" fill="#bcece8"></path>
+										<path d="M860.78,400.72a5.49,5.49,0,1,0-11,0V411.2h11V400.72Z"
+											transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000"
+											stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									</g>
+									<g>
+										<path d="M744,432.3l11,0.06-0.36,63.37-11-.06Z" transform="translate(-0.23)"
+											fill="#eefaf9" stroke="#000000" stroke-linecap="round"
+											stroke-linejoin="round" stroke-width="6"></path>
+										<circle cx="749.44" cy="432.15" r="7.18" fill="#eefaf9" stroke="#000000"
+											stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+										</circle>
+										<circle cx="749.44" cy="432.15" r="1.69" fill="#000000"></circle>
+										<g>
+											<path
+												d="M823.86,421.84a5.48,5.48,0,0,0-7.77-.08l-70.8,70,7.69,7.77,70.8-70A5.38,5.38,0,0,0,823.86,421.84Z"
+												transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+												stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+											</path>
+											<path d="M815.83,432.32l-54.67,54.07" transform="translate(-0.23)"
+												fill="none" stroke="#bcece8" stroke-miterlimit="10" stroke-width="2">
+											</path>
+											<circle cx="820.42" cy="424.55" r="7.18" fill="#eefaf9" stroke="#000000"
+												stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+											</circle>
+											<circle cx="820.42" cy="424.55" r="1.69" fill="#000000"></circle>
+										</g>
+										<g>
+											<path
+												d="M676.25,421a5.48,5.48,0,0,0-.08,7.77l70,70.8,7.77-7.69-70-70.8a5.38,5.38,0,0,0-7.69-.08h0Z"
+												transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+												stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+											</path>
+											<path d="M679.71,427.25l58.55,59.14" transform="translate(-0.23)"
+												fill="none" stroke="#bcece8" stroke-miterlimit="10" stroke-width="2">
+											</path>
+											<circle cx="680.16" cy="424.55" r="7.18" fill="#eefaf9" stroke="#000000"
+												stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+											</circle>
+											<circle cx="680.16" cy="424.55" r="1.69" fill="#000000"></circle>
+										</g>
+									</g>
+									<path
+										d="M764.46,493.24a7.54,7.54,0,0,1-7.52,7.52H741.56a7.54,7.54,0,0,1-7.52-7.52v-3.55a7.54,7.54,0,0,1,7.52-7.52h15.38a7.54,7.54,0,0,1,7.52,7.52v3.55Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+								</g>
+							</g>
+						</g>
+</svg>

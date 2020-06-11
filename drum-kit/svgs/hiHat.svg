@@ -1,0 +1,87 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 790"
+					preserveAspectRatio="xMidYMid meet">
+					<g id="Hi-Hat">
+							<g id="Hi-Hat-Stand-Top">
+								<path
+									d="M887.82,290.37V190.84a4.73,4.73,0,0,0-4.65-4.82,4.67,4.67,0,0,0-4.65,4.82v99.53h9.29Z"
+									transform="translate(-0.23)" fill="#eefaf9" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<path
+									d="M890.35,416.94a6.91,6.91,0,0,1-6.93,6.93H883a6.91,6.91,0,0,1-6.93-6.93V216.19a6.91,6.91,0,0,1,6.93-6.93h0.42a6.91,6.91,0,0,1,6.93,6.93V416.94h0Z"
+									transform="translate(-0.23)" fill="#eefaf9" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<path d="M878.52,249h9.29v65.9h-9.29V249Z" transform="translate(-0.23)" fill="#bcece8">
+								</path>
+								<path
+									d="M895.08,227.85c0-.84-0.51-0.51-0.51-0.59v-0.42a6.23,6.23,0,0,0-6.51-6.59H879.2c-3.89,0-7.44,2.7-7.44,6.59v0.42c0,0.08.51-.25,0.51,0.59h22.81Z"
+									transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<g id="Hi-Hat-Top" data-svg-origin="882.3952331542969 239.9730453491211"
+									style="transform: matrix(1, 0, 0, 1, 0, 0); transform-origin: 0px 0px 0px;">
+									<path
+										d="M960.23,240.27l-27.88-.68c-19.43-.42-27.8-3.8-33.37-7.6v0.17a16.91,16.91,0,0,0-10.73-3.55h-10a17.15,17.15,0,0,0-10.82,3.55v-0.08c-5.58,3.8-14,7.1-33.46,7.52l-28.3.59a5.6,5.6,0,0,0-5.83,5.41v0.08c0,3.13,3,5.66,6.08,5.66H960.4c3.13,0,5-2.53,5-5.66v-0.08a5,5,0,0,0-5.15-5.32h0Z"
+										transform="translate(-0.23)" fill="#fde74c" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M875.14,234.61h15.21" transform="translate(-0.23)" fill="none"
+										stroke="#fef5b7" stroke-linecap="round" stroke-linejoin="round"
+										stroke-width="4"></path>
+								</g>
+							</g>
+							<g id="Hi-Hat-Bottom" data-svg-origin="882.6692504882812 265.40501403808594"
+								style="transform: matrix(1, 0, 0, 1, 0, 0); transform-origin: 0px 0px 0px;">
+								<path
+									d="M805.78,264.43l27.8,0.68c19.43,0.42,28.05,3.8,33.12,7.6,3.38,2.37,7.52,4.14,11.58,4.14h10a17.51,17.51,0,0,0,10.82-4V272.8c5.58-3.8,14-7.18,33.46-7.69l27.8-.68a5.24,5.24,0,0,0,5.32-5.49v-0.08c0-3.13-1.94-4.9-5-4.9H806.2c-3.13,0-6.08,1.77-6.08,4.9v0.08c-0.17,3.21,2.53,5.49,5.66,5.49h0Z"
+									transform="translate(-0.23)" fill="#fde74c" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<path d="M875.14,270.94h15.21" transform="translate(-0.23)" fill="none" stroke="#bead39"
+									stroke-linecap="round" stroke-linejoin="round" stroke-width="4" opacity="0.3">
+								</path>
+							</g>
+							<g id="Hi-Hat-Stand">
+								<path d="M876,276.85h14.36V586.94H876V276.85Z" transform="translate(-0.23)"
+									fill="#eefaf9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"
+									stroke-width="6"></path>
+								<g>
+									<path
+										d="M945,647.77a7.14,7.14,0,0,1-10.22-.08l-56.36-56.36a7.17,7.17,0,1,1,10.14-10.14l56.36,56.36A7.14,7.14,0,0,1,945,647.77Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M938.34,645.07l-56.78-56.78" transform="translate(-0.23)" fill="none"
+										stroke="#bcece8" stroke-miterlimit="10" stroke-width="4"></path>
+									<path
+										d="M945.36,638l-10.14,10.14s5.41,9.13,6.76,10.48c4,4,10.05,3.63,14-.34s4.31-10.05.42-14C955.16,643,945.36,638,945.36,638Z"
+										transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+								</g>
+								<g>
+									<path
+										d="M821.83,647.52a7.14,7.14,0,0,1,.08-10.22l56.36-56.36a7.17,7.17,0,1,1,10.14,10.14l-56.36,56.36A7.14,7.14,0,0,1,821.83,647.52Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+									<path d="M828.76,645.07l54.75-54.84" transform="translate(-0.23)" fill="none"
+										stroke="#bcece8" stroke-miterlimit="10" stroke-width="4"></path>
+									<path
+										d="M831.55,647.86l-10.14-10.14s-9.13,5.41-10.48,6.76c-4,4-3.63,10.05.34,14s10.05,4.31,14,.42C826.48,657.66,831.55,647.86,831.55,647.86Z"
+										transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+								</g>
+								<path d="M872.19,585.92a11.41,11.41,0,1,1,11.41,11.41A11.36,11.36,0,0,1,872.19,585.92Z"
+									transform="translate(-0.23)" fill="#eefaf9" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+								<path d="M885.62,583.14a3.39,3.39,0,1,0,.76,4.73A3.38,3.38,0,0,0,885.62,583.14Z"
+									transform="translate(-0.23)" fill="#000000"></path>
+								<g>
+									<circle cx="896.54" cy="416.69" r="8.45" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></circle>
+									<path
+										d="M894.58,426.49a9.23,9.23,0,0,1-9.21,9.21h-4.31a9.23,9.23,0,0,1-9.21-9.21V407.82a9.23,9.23,0,0,1,9.21-9.21h4.31a9.23,9.23,0,0,1,9.21,9.21v18.67Z"
+										transform="translate(-0.23)" fill="#eefaf9" stroke="#000000"
+										stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+								</g>
+								<path
+									d="M872.27,276.85a1.2,1.2,0,0,0-.51-0.17v0.42a7.72,7.72,0,0,0,7.44,7.35h8.87c3.89,0,6.51-3.55,6.51-7.35v-0.42a1.2,1.2,0,0,1,.51.17H872.27Z"
+									transform="translate(-0.23)" fill="#5c5c5c" stroke="#000000" stroke-linecap="round"
+									stroke-linejoin="round" stroke-width="6"></path>
+							</g>
+						</g>
+</svg>
