@@ -15,7 +15,7 @@
 </head>
 
 <body ng-app="ticTacToe">
-    <br/><br/><br/>
+    <br /><br /><br />
     <center>
 
         <div class="game-box-wrapper">
@@ -30,15 +30,17 @@
                     <div class="game-box-controls m-x-auto text-center">
                         <h4>Choose your Sign</h4>
                         <div class="controls-button controls-x">
-                            <button type="button" class="control-button active" ng-class="{'active': playerSign == 1}" ng-click="changeSign(1)">
-                        X
-                    </button>
+                            <button type="button" class="control-button active" ng-class="{'active': playerSign == 1}"
+                                ng-click="changeSign(1)">
+                                X
+                            </button>
                         </div>
 
                         <div class="controls-button controls-o">
-                            <button type="button" class="control-button" ng-class="{'active': playerSign == -1}" ng-click="changeSign(-1)">
-                        O
-                    </button>
+                            <button type="button" class="control-button" ng-class="{'active': playerSign == -1}"
+                                ng-click="changeSign(-1)">
+                                O
+                            </button>
                         </div>
                     </div>
                 </div>
@@ -46,7 +48,9 @@
                 <div class="game-box-board">
 
                     <div class="board-row clearfix" ng-repeat="row in board track by $index">
-                        <div class="board-tile" ng-click="playTile($parent.$index, $index)" ng-repeat="tile in row track by $index" ng-switch="board[$parent.$index][$index]" ng-class="[highlighted[$parent.$index][$index]]">
+                        <div class="board-tile" ng-click="playTile($parent.$index, $index)"
+                            ng-repeat="tile in row track by $index" ng-switch="board[$parent.$index][$index]"
+                            ng-class="[highlighted[$parent.$index][$index]]">
                             <div class="board-tile-image blank" ng-switch-when="0"></div>
                             <img src="xsign.png" alt="X" class="board-tile-image x" ng-switch-when="1">
                             <img src="osign.png" alt="O" class="board-tile-image o" ng-switch-when="-1">
@@ -60,9 +64,11 @@
         </div>
 
 
-        <div class="message p-y-lg" ng-controller="MessageCtrl" ng-class="[messageHighlightClass, {'active': messageActive}]">
+        <div class="message p-y-lg" ng-controller="MessageCtrl"
+            ng-class="[messageHighlightClass, {'active': messageActive}]">
             <h1 class="display-1">{{messageContents}}</h1>
         </div>
+
     </center>
 
     <script src="./js/angular-min.js"></script>
