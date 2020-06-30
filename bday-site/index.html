@@ -92,7 +92,8 @@
             // If the count down is over, write some text 
             if (distance < 0) {
                 clearInterval(x)
-                document.getElementById("demo").innerHTML = "EXPIRED"
+                alert("Countdown Finished! Redirecting...")
+                window.location.replace("./wishes.html")
             }
         }, 1000)
     </script>

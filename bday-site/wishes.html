@@ -1,0 +1,62 @@
+<html lang="en">
+
+<head>
+    <link type="text/css" rel="stylesheet" id="dark-mode-general-link">
+    <link type="text/css" rel="stylesheet" id="dark-mode-custom-link">
+    <style type="text/css" id="dark-mode-custom-style"></style>
+    <meta charset="UTF-8">
+    <title>Wishes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style1.css" />
+    <link rel="stylesheet" href="css/style3.css" />
+    <script>
+        window.console = window.console || function (t) {};
+    </script>
+    <script>
+        if (document.location.search.match(/type=embed/gi)) {
+            window.parent.postMessage("resize", "*");
+        }
+    </script>
+</head>
+
+<body translate="no">
+    <fieldset class="slideshow">
+
+        <input type="radio" id="slideCheckbox1" name="slide" checked="" autofocus="">
+        <div class="slide">
+            <div class="slide__html">
+
+            </div>
+            <div class="slide__content">
+                <video controls id="vid1" style="width: 100%; height: auto;">
+                    <source src="./videos/Final.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+        <input type="radio" id="slideCheckbox2" name="slide">
+        <div class="slide">
+            <div class="slide__content">
+                <h1></h1>
+                <video controls id="vid1" style="width: 90%; height: auto;">
+                    <source src="./videos/1.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+
+        <input type="radio" id="slideCheckbox3" name="slide">
+        <div class="slide">
+            <div class="slide__content"><br /><br /><br />
+                <h1>Coming Soon...(-_-)</h1>
+            </div>
+        </div>
+
+        <nav>
+            <label class="slide-button" for="slideCheckbox1">Aman</label>
+            <label class="slide-button" for="slideCheckbox2">Nancy</label>
+            <label class="slide-button" for="slideCheckbox3">Yet More</label>
+        </nav>
+    </fieldset>
+
+</body>
+
+</html>
