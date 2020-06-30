@@ -17,35 +17,32 @@
         <span></span>
         <div class="flex-col-c p-t-50 p-b-50">
             <h3 class="l1-txt1 txt-center p-b-10">
-                Anusha Shetty's 20th Birthday
-            </h3><br /><br />
-            <div>
-                <p class="txt-center l1-txt2 p-b-60">
-                    Our earth is gonna get heavier for the 20th time in
-                </p>
+                Anusha Reddy's 20th Birthday
+            </h3>
 
-                <div class="flex-w flex-c cd100 p-b-82">
-                    <div class="flex-col-c-m size2 how-countdown">
-                        <span class="l1-txt3 p-b-9 days" id="days">0</span>
-                        <span class="s1-txt1">Days</span>
-                    </div>
+            <p class="txt-center l1-txt2 p-b-60">
+                Time left for this earth to get heavier for the 20th time
+            </p>
 
-                    <div class="flex-col-c-m size2 how-countdown">
-                        <span class="l1-txt3 p-b-9 hours" id="hours">00</span>
-                        <span class="s1-txt1">Hours</span>
-                    </div>
+            <div class="flex-w flex-c cd100 p-b-82">
 
-                    <div class="flex-col-c-m size2 how-countdown">
-                        <span class="l1-txt3 p-b-9 minutes" id="mins">00</span>
-                        <span class="s1-txt1">Minutes</span>
-                    </div>
 
-                    <div class="flex-col-c-m size2 how-countdown">
-                        <span class="l1-txt3 p-b-9 seconds" id="secs">00</span>
-                        <span class="s1-txt1">Seconds</span>
-                    </div>
+                <div class="flex-col-c-m size2 how-countdown">
+                    <span class="l1-txt3 p-b-9 hours" id="hours">9</span>
+                    <span class="s1-txt1">Hours</span>
+                </div>
+
+                <div class="flex-col-c-m size2 how-countdown">
+                    <span class="l1-txt3 p-b-9 minutes" id="mins">35</span>
+                    <span class="s1-txt1">Minutes</span>
+                </div>
+
+                <div class="flex-col-c-m size2 how-countdown">
+                    <span class="l1-txt3 p-b-9 seconds" id="secs">10</span>
+                    <span class="s1-txt1">Seconds</span>
                 </div>
             </div>
+
         </div>
 
         <span class="s1-txt3 txt-center">
@@ -57,7 +54,6 @@
     <script>
         // Set the date we're counting down to
         var countDownDate = new Date("Jun 30, 2020 23:59:59").getTime()
-        var days_elem = document.querySelector("#days")
         var hours_elem = document.querySelector("#hours")
         var mins_elem = document.querySelector("#mins")
         var secs_elem = document.querySelector("#secs")
@@ -72,13 +68,11 @@
             var distance = countDownDate - now
 
             // Time calculations for days, hours, minutes and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24))
             var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
             var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60))
             var seconds = Math.floor((distance % (1000 * 60)) / 1000)
 
             // Output the result
-            days_elem.innerHTML = days
             hours_elem.innerHTML = hours
             mins_elem.innerHTML = minutes
             secs_elem.innerHTML = seconds
@@ -90,6 +84,8 @@
             }
         }, 1000)
     </script>
+
+
 
 </body>
 
