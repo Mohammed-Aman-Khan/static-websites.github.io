@@ -27,7 +27,7 @@
         <span></span>
         <div class="flex-col-c p-t-50 p-b-50">
             <div style="border-radius: 100%; width: 170px; height: 170px; background-color: white; ">
-                <img src="" class="image" />
+                <!--<img src="./img.jpeg class="image" />-->
             </div><br /><br />
             <h3 class="l1-txt1 txt-center p-b-10">
                 Happy Anniversary!
@@ -38,6 +38,11 @@
             </p>
 
             <div class="flex-w flex-c cd100 p-b-82">
+
+                <div class="flex-col-c-m size2 how-countdown">
+                    <span class="l1-txt3 p-b-9 hours" id="days">0</span>
+                    <span class="s1-txt1">Days</span>
+                </div>
 
                 <div class="flex-col-c-m size2 how-countdown">
                     <span class="l1-txt3 p-b-9 hours" id="hours">0</span>
@@ -66,6 +71,7 @@
     <script>
         // Set the date we're counting down to
         var countDownDate = new Date("Jul 19, 2020 23:59:59").getTime()
+        var days_elem = document.querySelector("#days")
         var hours_elem = document.querySelector("#hours")
         var mins_elem = document.querySelector("#mins")
         var secs_elem = document.querySelector("#secs")
@@ -80,6 +86,7 @@
             var distance = countDownDate - now
 
             // Time calculations for days, hours, minutes and seconds
+            var days
             var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
             var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60))
             var seconds = Math.floor((distance % (1000 * 60)) / 1000)
