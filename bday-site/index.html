@@ -1,4 +1,8 @@
-<html>
+<html style="background: #7918f2;
+background: -webkit-linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
+background: -o-linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
+background: -moz-linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
+background: linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);">
 
 <head>
     <title>Sidra ka Birthday aaraha hai</title>
@@ -22,11 +26,18 @@
             box-shadow: 5px 5px 10px lightslategray,
                 -5px -5px 10px lightslategray, 5px -5px 10px lightslategray, -5px 5px 10px lightslategray;
         }
+
+        .mycontainer {
+            display: grid;
+            grid-gap: 5px;
+            grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            grid-template-rows: repeat(2, 100px);
+        }
     </style>
-    <div class="bg-g1 size1 flex-w flex-col-c-sb p-l-15 p-r-15 p-t-55 p-b-35 respon1">
+    <div class=" bg-g1 size1 flex-w flex-col-c-sb p-l-15 p-r-15 p-t-55 p-b-35 respon1">
         <span></span>
         <div class="flex-col-c p-t-50 p-b-50">
-            <div style="display: inline-flex;">
+            <div style="display: inline-flex;" class="mycontainer">
                 <div style="border-radius: 100%; width: 220px; height: 220px; background-color: white; ">
                     <img src="./images/img1.jpeg" class="image" />
                 </div>&nbsp;
